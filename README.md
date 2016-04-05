@@ -1,3 +1,3 @@
 # makeuptag
-Makeup tag project
+Makeup tag project - BLE beacon repo
  
